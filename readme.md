@@ -1,9 +1,9 @@
-<p align="center">
+
   ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+for+my+Github)](https://git.io/typing-svg)<br></p>
-<br>
-<p align="center">
+
+
 ![FelipeCH's GitHub stats](https://github-readme-stats.vercel.app/api?username=lipef23937&show_icons=true&theme=dracula)
-</p>
+
   <h1> My skills </h1>
 <p align="center">
   <a href="https://skillicons.dev">
