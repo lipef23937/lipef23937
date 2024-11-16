@@ -11,6 +11,6 @@
   <h1> My skills </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,androidstudio,js,css,html" />
+    <img src="https://skillicons.dev/icons?i=git,androidstudio,css,html" />
   </a>
 </p>
